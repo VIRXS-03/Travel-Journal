@@ -1,0 +1,63 @@
+html{
+    font-family: "Inter", sans-serif;
+}
+nav{
+    background-color:#F55A5A;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:2.8125em;
+    gap: 7px;
+}
+nav img{
+    height: 24px;
+    width: auto;
+}
+nav h1{
+    font-size: 0.90375rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    
+}
+.trips{
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    margin: 0em 1em;
+    margin-bottom: 2.25em;
+    gap: 19px;
+    color: #2B283A;
+}
+
+.trips-img{
+    width: 125px;
+    height: 168px;
+    object-fit: cover;
+    border-radius:5px ;
+}
+.location{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.location h2{
+    padding-left:4px;
+    padding-right: 12px;
+}
+.title,.date{
+    font-weight: bold;
+}
+.desc,.location{
+    font-weight: normal;
+}
+.trips h1{
+    font-size: 1.5625rem;
+}
+.trips h2{
+    font-size: 0.64rem;
+}
+.trips a{
+    font-size: 0.64rem;
+    color: #918E9B;
+}
