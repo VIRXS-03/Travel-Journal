@@ -15,7 +15,7 @@ export default function Card(props){
             </div>
             <h1 className='title'>{props.title}</h1>
             <div>
-                <h2 className='date'>{props.startDate} - {props.endDate}</h2>
+                <h2 className='date'>{props.startDate}</h2>
             </div>
             <h2 className='desc'>{props.description}</h2>
             </div>
