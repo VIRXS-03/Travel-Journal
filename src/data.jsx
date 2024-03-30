@@ -1,6 +1,6 @@
 export default [
     {
-        key:1,
+        id:1,
         title: "Mount Fuji",
         location: "Japan",
         googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
@@ -10,7 +10,7 @@ export default [
         imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
     },
     {   
-        key:2,
+        id:2,
         title: "Daikoku Futo",
         location: "Japan",
         googleMapsUrl: "https://www.google.com/maps/place/Daikoku+Parking+Area,+15+Daikokufuto,+Tsurumi+Ward,+Yokohama,+Kanagawa+230-0054,+Japan/@35.462924,139.6790573,16z/data=!4m9!1m2!2m1!1sdaikoku+futo+parking+area!3m5!1s0x60185d7092f37e6f:0xf526152a55b3d3a6!8m2!3d35.4619051!4d139.6805121!16s%2Fg%2F1233rf37",
@@ -20,7 +20,7 @@ export default [
         imageUrl: "https://images.unsplash.com/photo-1580427331730-b38f8dc1f355?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8Y2FyJTIwbWVldCUyMGphcGFufGVufDB8fDB8fHww"
     },
     {
-        key:3,
+        id:3,
         title: "St. Mark's Basilica",
         location: "Venice",
         googleMapsUrl: "https://maps.app.goo.gl/iz8xtdmkEaNKWE9P7",
@@ -30,7 +30,7 @@ export default [
         imageUrl: "https://venicelover.com/images/san-marco-basilica-venice.jpg"
     },
     {
-        key:4,
+        id:4,
         title: "The Matterhorn",
         location: "Switzerland",
         googleMapsUrl: "https://maps.app.goo.gl/4NmbRjpeQ82p7qYWA",
@@ -40,7 +40,7 @@ export default [
         imageUrl: "https://images.unsplash.com/photo-1517490560101-4ffe479ef5c3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8YWxwcyUyMHN3aXR6ZXJsYW5kfGVufDB8fDB8fHww"
     },
     {
-        key:5,
+        id:5,
         title: "Singapore Changi Airport",
         location: "Singapore",
         googleMapsUrl: "https://maps.app.goo.gl/47UKxY8fkAWk7dez9",
@@ -50,7 +50,7 @@ export default [
         imageUrl: "https://images.unsplash.com/photo-1583102034473-56fc10ca3cf2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c2luZ2Fwb3JlJTIwYWlycG9ydHxlbnwwfHwwfHx8MA%3D%3D"
     },
     {
-        key:6,
+        id:6,
         title: "HANA·BIYORI",
         location: "Japan",
         googleMapsUrl: "https://maps.app.goo.gl/AfW5AHSYx2FmjTfUA",
